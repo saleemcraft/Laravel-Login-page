@@ -6,6 +6,8 @@ Register
 Login
 Logout
 Access protected dashboard
+
+
 🚀 Features
 User Registration
 User Login Authentication
